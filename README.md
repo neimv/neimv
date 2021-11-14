@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @neimv
+- 👀 I’m interested in devops, data engineer and backend, using python, golang, rust, bash, nodejs or la or all
+- 🌱 I’m currently learning devops fundamentals
+- 💞️ I’m looking to collaborate on open source projects
+- 📫 neimv.zatara@gmail.com
