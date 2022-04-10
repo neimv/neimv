@@ -3,3 +3,5 @@
 - 🌱 I’m currently learning devops fundamentals
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 neimv.zatara@gmail.com
+- https://platzi.com/p/neimv/
+- https://www.linkedin.com/in/pedro-ricardo-mu%C3%B1oz-amador-270607146/
